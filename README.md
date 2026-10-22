@@ -4,7 +4,7 @@ A real-time collaborative code editor. Multiple developers join with a username,
 
 ## Live Demo
 
-**http://docker-aws-ALB-111196544.us-east-2.elb.amazonaws.com**
+**[click here to view live demo](http://docker-aws-ALB-111196544.us-east-2.elb.amazonaws.com)**
 
 Hosted on AWS (us-east-2) behind an Application Load Balancer, running the backend as a Docker container.
 
